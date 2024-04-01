@@ -1,0 +1,7 @@
+{
+    "server" : "localhost:3306",
+    "username" : "root",
+    "password" : "",
+    "dbname" : "inshaf_healthinvesto"
+}
+
